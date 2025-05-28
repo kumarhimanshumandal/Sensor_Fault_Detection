@@ -1,1 +1,1 @@
-## MACHINE LEARNING SENSOR PROJECT
+## Machine Learning Sensor Project
